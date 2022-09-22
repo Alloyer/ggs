@@ -1,11 +1,20 @@
 {
   "name": "ggs",
   "displayName": "Gource Git Show",
-  "description": "-",
-  "version": "0.0.1",
+  "description": "Easy-to-use and beautiful way to visualize your git repository contributions from the VS Code",
+  "icon": "src/gource-0.53.win64/data/logo.png",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Alloyer/ggs"
+  },
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.71.0"
   },
+  "author": {
+    "name": "Aleksei Gruntov, Jozef Chmelar, Gokce Aksu"
+  },
+  "publisher": "Alloyer",
   "categories": [
     "Other"
   ],
