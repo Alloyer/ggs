@@ -2,7 +2,7 @@
   "name": "ggs",
   "displayName": "Gource Git Show",
   "description": "Easy-to-use and beautiful way to visualize your git repository contributions from the VS Code",
-  "icon": "src/gource-0.53.win64/data/logo.png",
+  "icon": "images/logo.png",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/Alloyer/ggs"
